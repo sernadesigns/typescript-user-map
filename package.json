@@ -1,0 +1,25 @@
+{
+  "name": "typescript-user-map",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sernadesigns/typescript-user-map.git"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "sernadesigns",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sernadesigns/typescript-user-map/issues"
+  },
+  "homepage": "https://github.com/sernadesigns/typescript-user-map#readme",
+  "dependencies": {
+    "@types/faker": "^5.5.5",
+    "faker": "^5.5.3"
+  }
+}
